@@ -1,5 +1,3 @@
-# Togo-DataLab-Test
-
 # Application de Gestion de Réservations de Véhicules
 
 ## Contexte
